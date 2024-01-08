@@ -7,7 +7,11 @@ assignees: ''
 
 ---
 
-As a **user** I want **feature** in order to **add value** 
+As a **user** 
+
+I want **feature** 
+
+In order to **add value** 
 
 Acceptance Criteria:
 1. One
